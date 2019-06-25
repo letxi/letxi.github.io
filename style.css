@@ -1,12 +1,24 @@
 .menu{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Heebo', sans-serif;
+  font-size: 18px;
+  text-align: center;
 }
 
 .menu > a{
   text-decoration: none;
   color: rgb(179, 17, 125);
+  margin-right: 20px;
 }
 
 .menu > a:visited {
-  color: green
+  color: green;
 }
+
+.menu > a:hover {
+  color: blue;
+}
+ h1{
+   font-family: "";
+   padding-bottom: 5px;
+   border-bottom: 2px dotted black;
+ }
