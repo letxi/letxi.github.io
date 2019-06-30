@@ -4,7 +4,7 @@
 }
 
 .menu{
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Lobster Two', cursive;
   font-size: 18px;
   text-align: center;
   margin-top: 30px;
@@ -18,22 +18,22 @@
 }
 
 .menu > a:visited {
-  color: green;
+  color: black;
 }
 
 .menu > a:hover {
-  color: blue;
+  color: rgb(241, 155, 227);
 }
 
 h1{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Playball', cursive;
   color: rgb(179, 17, 125);
   padding-bottom: 5px;
   border-bottom: 2px dotted black;
  }
 
 .conteudo{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Petit Formal Script', cursive;
   line-height: 32px;
 }
 
