@@ -46,3 +46,7 @@ h1{
 .selecionado{
   border-bottom: 2px dotted black;
 }
+
+body{
+ background-color: rgb(163, 117, 148);
+}
