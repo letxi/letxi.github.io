@@ -1,0 +1,48 @@
+.largura{
+  width: 700px;
+  margin: auto;
+}
+
+.menu{
+  font-family: 'Lobster Two', cursive;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.menu > a{
+  text-decoration: none;
+  color: rgb(179, 17, 125);
+  margin-right: 20px;
+}
+
+.menu > a:visited {
+  color: black;
+}
+
+.menu > a:hover {
+  color: rgb(241, 155, 227);
+}
+
+h1{
+  font-family: 'Playball', cursive;
+  color: rgb(179, 17, 125);
+  padding-bottom: 5px;
+  border-bottom: 2px dotted black;
+ }
+
+.conteudo{
+  font-family: 'Petit Formal Script', cursive;
+  line-height: 32px;
+}
+
+.img-principal{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.selecionado{
+  border-bottom: 2px dotted black;
+}
